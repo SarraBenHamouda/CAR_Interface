@@ -1,65 +1,59 @@
 # 🚗 Drive By Rihem - Car Rental Website
 
-A modern and responsive car rental website designed for **Drive By Rihem Tunisia**.
+## 📖 Description
 
-This project was developed using pure HTML and CSS as part of a web design and front-end development project.
+Drive By Rihem is a modern and responsive car rental website designed for a Tunisian car rental company.
 
----
+The goal of this project is to provide users with an attractive and user-friendly platform where they can:
 
-## 📋 Project Overview
+- Discover available rental vehicles
+- Check current promotions
+- Make reservations
+- Learn more about the company
+- Contact the agency
 
-Drive By Rihem is a car rental company operating in Tunisia.
-
-This website allows users to:
-
-- Browse available rental vehicles
-- View current promotions
-- Learn about the company
-- Explore available agencies
-- Request quotes and reservations
-- Access contact information
-
-The website is fully responsive and adapts to desktop, tablet, and mobile devices.
+This project was developed using only HTML5 and CSS3.
 
 ---
 
-## 🎨 Features
+## ✨ Features
 
-### Navigation Bar
+### 🏠 Home Page
+- Responsive navigation bar
 - Company logo
-- Navigation menu
-- User icons
+- User action icons
 
-### Hero Section
-- Promotional banner
-- Online reservation discount offer
+### 🎁 Promotions Section
+- Promotional offers
+- Featured vehicles
+- Booking buttons
 
-### Booking Section
+### 📅 Reservation Section
 - Pick-up location
 - Pick-up date and time
 - Drop-off date and time
-- Reservation button
+- Reservation request button
 
-### Promotions
-- Featured rental vehicles
-- Daily pricing information
-- Booking buttons
+### 🚘 Vehicle Catalog
+- Featured cars
+- Daily pricing
+- Quote and booking options
 
-### Services
+### ⭐ Services
 - Professional service information
-- Agency information
+- Agency locations
 
-### About Us
+### ℹ️ About Us
 - Company presentation
 - Agency image
-- Call-to-action button
+- Booking call-to-action
 
-### Why Choose Drive By Rihem
+### 🔒 Why Choose Us
 - Safe & Insured
 - 24/7 Support
 - Best Prices
 
-### Footer
+### 📞 Footer
 - Airport agencies
 - City agencies
 - Useful links
@@ -72,12 +66,12 @@ The website is fully responsive and adapts to desktop, tablet, and mobile device
 
 - HTML5
 - CSS3
-- Font Awesome Icons
+- Font Awesome
 - Google Fonts
 
 ---
 
-## 📁 Project Structure
+## 📂 Project Structure
 
 ```text
 CarRental/
@@ -102,27 +96,21 @@ CarRental/
 
 ---
 
-## 🚀 Installation
+## 🚀 Getting Started
 
-Clone the repository:
+1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/drive-by-rihem.git
+git clone https://github.com/your-username/drive-by-rihem.git
 ```
 
-Open the project folder:
+2. Open the project folder
 
 ```bash
 cd drive-by-rihem
 ```
 
-Open:
-
-```text
-index.html
-```
-
-in your browser.
+3. Open `index.html` in your browser
 
 No additional installation is required.
 
@@ -130,30 +118,24 @@ No additional installation is required.
 
 ## 📱 Responsive Design
 
-The website is optimized for:
+The website is fully responsive and optimized for:
 
 - Desktop
 - Laptop
 - Tablet
-- Mobile devices
+- Mobile Devices
 
-Responsive layouts are implemented using CSS Flexbox, Grid, and Media Queries.
+CSS Flexbox, Grid, and Media Queries are used to ensure a smooth experience across all screen sizes.
 
 ---
 
-## 📸 Screenshots
+## 🎯 Project Objectives
 
-### Home Page
-Add screenshot here
-
-### Promotions Section
-Add screenshot here
-
-### Booking Section
-Add screenshot here
-
-### Footer
-Add screenshot here
+- Build a modern car rental website
+- Practice HTML and CSS development
+- Implement responsive web design
+- Improve UI/UX design skills
+- Create a professional landing page
 
 ---
 
@@ -161,10 +143,10 @@ Add screenshot here
 
 **Rihem Mosbeh**
 
-Front-End Web Development Project
+Web Development Project
 
 ---
 
 ## 📄 License
 
-This project is created for educational purposes.
+This project is intended for educational and learning purposes.
