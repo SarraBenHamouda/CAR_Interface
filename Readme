@@ -1,0 +1,170 @@
+# 🚗 Drive By Rihem - Car Rental Website
+
+A modern and responsive car rental website designed for **Drive By Rihem Tunisia**.
+
+This project was developed using pure HTML and CSS as part of a web design and front-end development project.
+
+---
+
+## 📋 Project Overview
+
+Drive By Rihem is a car rental company operating in Tunisia.
+
+This website allows users to:
+
+- Browse available rental vehicles
+- View current promotions
+- Learn about the company
+- Explore available agencies
+- Request quotes and reservations
+- Access contact information
+
+The website is fully responsive and adapts to desktop, tablet, and mobile devices.
+
+---
+
+## 🎨 Features
+
+### Navigation Bar
+- Company logo
+- Navigation menu
+- User icons
+
+### Hero Section
+- Promotional banner
+- Online reservation discount offer
+
+### Booking Section
+- Pick-up location
+- Pick-up date and time
+- Drop-off date and time
+- Reservation button
+
+### Promotions
+- Featured rental vehicles
+- Daily pricing information
+- Booking buttons
+
+### Services
+- Professional service information
+- Agency information
+
+### About Us
+- Company presentation
+- Agency image
+- Call-to-action button
+
+### Why Choose Drive By Rihem
+- Safe & Insured
+- 24/7 Support
+- Best Prices
+
+### Footer
+- Airport agencies
+- City agencies
+- Useful links
+- Payment methods
+- Social media links
+
+---
+
+## 🛠 Technologies Used
+
+- HTML5
+- CSS3
+- Font Awesome Icons
+- Google Fonts
+
+---
+
+## 📁 Project Structure
+
+```text
+CarRental/
+│
+├── index.html
+│
+├── css/
+│   └── style.css
+│
+├── images/
+│   ├── logo.png
+│   ├── yellow-car.png
+│   ├── two-cars.png
+│   ├── agence.png
+│   ├── skoda.png
+│   ├── hyundai.png
+│   ├── mercedes.png
+│   └── golf.png
+│
+└── README.md
+```
+
+---
+
+## 🚀 Installation
+
+Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/drive-by-rihem.git
+```
+
+Open the project folder:
+
+```bash
+cd drive-by-rihem
+```
+
+Open:
+
+```text
+index.html
+```
+
+in your browser.
+
+No additional installation is required.
+
+---
+
+## 📱 Responsive Design
+
+The website is optimized for:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile devices
+
+Responsive layouts are implemented using CSS Flexbox, Grid, and Media Queries.
+
+---
+
+## 📸 Screenshots
+
+### Home Page
+Add screenshot here
+
+### Promotions Section
+Add screenshot here
+
+### Booking Section
+Add screenshot here
+
+### Footer
+Add screenshot here
+
+---
+
+## 👨‍💻 Author
+
+**Rihem Mosbeh**
+
+Front-End Web Development Project
+
+---
+
+## 📄 License
+
+This project is created for educational purposes.
